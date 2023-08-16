@@ -109,4 +109,4 @@ WriteArray(myArray);
  
  
 Console.WriteLine(minMax(myArray));
-/*
+*/
