@@ -1,0 +1,15 @@
+/Users/kseniakrivolutskaya/Desktop/HomeworkC#/homework8/obj/Debug/net6.0/homework8.csproj.AssemblyReference.cache
+/Users/kseniakrivolutskaya/Desktop/HomeworkC#/homework8/obj/Debug/net6.0/homework8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kseniakrivolutskaya/Desktop/HomeworkC#/homework8/obj/Debug/net6.0/homework8.AssemblyInfoInputs.cache
+/Users/kseniakrivolutskaya/Desktop/HomeworkC#/homework8/obj/Debug/net6.0/homework8.AssemblyInfo.cs
+/Users/kseniakrivolutskaya/Desktop/HomeworkC#/homework8/obj/Debug/net6.0/homework8.csproj.CoreCompileInputs.cache
+/Users/kseniakrivolutskaya/Desktop/HomeworkC#/homework8/bin/Debug/net6.0/homework8
+/Users/kseniakrivolutskaya/Desktop/HomeworkC#/homework8/bin/Debug/net6.0/homework8.deps.json
+/Users/kseniakrivolutskaya/Desktop/HomeworkC#/homework8/bin/Debug/net6.0/homework8.runtimeconfig.json
+/Users/kseniakrivolutskaya/Desktop/HomeworkC#/homework8/bin/Debug/net6.0/homework8.dll
+/Users/kseniakrivolutskaya/Desktop/HomeworkC#/homework8/bin/Debug/net6.0/homework8.pdb
+/Users/kseniakrivolutskaya/Desktop/HomeworkC#/homework8/obj/Debug/net6.0/homework8.dll
+/Users/kseniakrivolutskaya/Desktop/HomeworkC#/homework8/obj/Debug/net6.0/refint/homework8.dll
+/Users/kseniakrivolutskaya/Desktop/HomeworkC#/homework8/obj/Debug/net6.0/homework8.pdb
+/Users/kseniakrivolutskaya/Desktop/HomeworkC#/homework8/obj/Debug/net6.0/homework8.genruntimeconfig.cache
+/Users/kseniakrivolutskaya/Desktop/HomeworkC#/homework8/obj/Debug/net6.0/ref/homework8.dll
